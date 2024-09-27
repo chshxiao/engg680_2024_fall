@@ -11,7 +11,7 @@ The objective of Lab Assignment 1 is to get us familiar with Github version cont
 
 Below is the distribution of work:
 
-Ray Pan finished Part 2
+Ray Pan finished Part 1 and Part 2
 
 Vikesh Patel and Socretes Saha finished Part 3
 
